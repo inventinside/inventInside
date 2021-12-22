@@ -3,6 +3,11 @@ The manual:
 Homepage:
  inventinside.com
 
+
+Simplified user interface:
+
+![Screenshot_20211221-212147_One UI Home](https://user-images.githubusercontent.com/13043545/147024183-1ff1d1a8-bd50-4256-90a9-90660f78ecd5.jpg)
+
 <table>
 <tr>
  <td>
@@ -29,8 +34,8 @@ Simplified user interface for part production:
 Editor Window:
 
  inventinside.com/editor - new part
- inventinside.com/editor/{partid}/ - open by part id
  
+ inventinside.com/editor/{partid}/ - open by part id 
  
  The editor will have 3 areas;
  
@@ -81,13 +86,3 @@ b.
 5. More variable presentation options.
 </td></tr>
 </table>
-Simplified user interface:
-
-![Screenshot_20211221-212147_One UI Home](https://user-images.githubusercontent.com/13043545/147024183-1ff1d1a8-bd50-4256-90a9-90660f78ecd5.jpg)
-
-1. 3D render of selected object.
-2. Reload Model 
-3. Download STL, instant.
-4. User selectable parameters. 
-
-
