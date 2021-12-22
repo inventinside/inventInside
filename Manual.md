@@ -1,4 +1,4 @@
-The manual will be here:
+The manual:
 
 
 Editor Window:
