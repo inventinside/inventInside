@@ -95,10 +95,8 @@ Example of a simple CSG tree:
 <table>
  <tr>
   <td>
-   Additional objects can be added/removed from the tree.
- 
-
-   
+   * Additional objects can be added/removed from the tree.
+   * Drag and drop of nodes.
   
   </td>
   <td>
