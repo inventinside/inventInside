@@ -1,13 +1,42 @@
 The manual:
 
+Homepage:
+ inventinside.com
+
+<table>
+<tr>
+ <td>
+  
+Simplified user interface for part production:
+  
+ inventinside.com/editor/{partid}/small
+
+ </td>
+  <td>
+
+1. 3D render of selected object.
+2. Reload Model 
+3. Download STL, instant.
+4. Configure user selectable parameters. 
+
+ </td>
+ </tr>
+</table>
+
+
+
 
 Editor Window:
 
- inventinside.com/editor
+ inventinside.com/editor - new part
+ inventinside.com/editor/{partid}/ - open by part id
+ 
+ 
  The editor will have 3 areas;
  
 <table>
- <tr><td>
+ <tr>
+  <td>
  
  A. Documentation, saving, exporting.
  
@@ -16,7 +45,6 @@ a.
 1. Open/Close tray.
 2. Gyro input (early tests)
 3. UI Config.
-</td><td>
 
 ![Screenshot_20211221-210818_Chrome](https://user-images.githubusercontent.com/13043545/147023014-a6772298-7cf2-483c-a814-a374efd46f41.jpg)
 
@@ -26,7 +54,9 @@ b.
 3. Part documentation 
 4. export to Curv3d
 
- </td><td>
+ </td>
+  
+  <td>
  
   B. CSG tree and object maipulation.
  
@@ -59,3 +89,5 @@ Simplified user interface:
 2. Reload Model 
 3. Download STL, instant.
 4. User selectable parameters. 
+
+
