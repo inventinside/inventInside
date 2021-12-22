@@ -3,7 +3,7 @@ The manual will be here:
 Editor Window:
 ![image](https://user-images.githubusercontent.com/13043545/146989573-cc266702-32d9-4ce7-b9ee-c1481ede527e.png)
  
- 
+ inventinside.com/editor
  The editor will have 3 areas;
  
  A. Documentation, saving, exporting.
@@ -44,3 +44,12 @@ b.
 3. User defined variables.
 4. Add User variables.
 5. More variable presentation options.
+
+Simplified user interface:
+
+![Screenshot_20211221-212147_One UI Home](https://user-images.githubusercontent.com/13043545/147024183-1ff1d1a8-bd50-4256-90a9-90660f78ecd5.jpg)
+
+1. 3D render of selected object.
+2. Reload Model 
+3. Download STL, instant.
+4. User selectable parameters. 
