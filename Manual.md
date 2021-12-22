@@ -5,10 +5,16 @@ Editor Window:
  
  
  The editor will have 3 areas;
- 1. Documentation, saving, exporting.
+ a. Documentation, saving, exporting.
  
- 2. CSG tree and object maipulation.
+ b. CSG tree and object maipulation.
  
- 3. Variable editor 
+ c. Variable editor 
+ 
+![Screenshot_20211221-202522_Chrome](https://user-images.githubusercontent.com/13043545/147019329-54f888f9-ea39-405b-b784-237b36a0324c.jpg)
 
-
+1. All defined scope variables.
+2. All active variables.
+3. User defined variables.
+4. Add User variables.
+5. More variable presentation options.
