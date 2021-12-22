@@ -86,3 +86,30 @@ b.
 5. More variable presentation options.
 </td></tr>
 </table>
+
+
+Example of a simple CSG tree:
+
+![image](https://user-images.githubusercontent.com/13043545/147090980-9bc43bb3-0dff-47b7-952e-333685ea0af0.png)
+
+<table>
+ <tr>
+  <td>
+   Additional objects can be added/removed from the tree.
+ 
+
+   
+  
+  </td>
+  <td>
+      Operations:
+    Union
+    Difference
+    Intersection
+   
+   Objects:
+    Shapes
+    Code Blocks
+  </td>
+ </tr>
+</table>
